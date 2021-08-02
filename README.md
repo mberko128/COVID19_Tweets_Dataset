@@ -1,6 +1,6 @@
 -   [This repo only contatins the data and statistics for 2021. For the
     data of 2020 please
-    visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>](#this-repo-only-contatins-the-data-and-statistics-for-2021.-for-the-data-of-2020-please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2020)
+    visit:<https://github.com/lopezbec/COVID19_Tweets_Dataset_2020>](#this-repo-only-contatins-the-data-and-statistics-for-2021.-for-the-data-of-2020-please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2020)
 -   [Data Organization](#data-organization)
 -   [Data Statistics](#data-statistics)
     -   [General Statistics](#general-statistics)
@@ -21,8 +21,8 @@
 -   [Licensing](#licensing)
 -   [References](#references)
 
-This repo only contatins the data and statistics for 2021. For the data of 2020 please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This repo only contatins the data and statistics for 2021. For the data of 2020 please visit:<https://github.com/lopezbec/COVID19_Tweets_Dataset_2020>
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ the novel coronavirus COVID-19 since January 22nd, 2020.
 
 As of 07/16/2021 there were a total of **1,968,979,294** tweets
 collected. The tweets are collected using Twitter’s trending topics and
-selected keywords. Moreover, the tweets from [Chen et
-al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
+selected keywords. Moreover, the tweets from [Chen et al.
+(2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
 supplement the dataset by hydrating non-duplicated tweets. These tweets
 are just a sample of all the tweets generated that are provided by
 Twitter, and it does not represent the whole population of tweets at any
@@ -43,7 +43,7 @@ given point.
 Christian Lopez, and Caleb Gallemore (2020) An Augmented Multilingual
 Twitter Dataset for Studying the COVID-19 Infodemic. DOI:
 10.21203/rs.3.rs-95721/v1
-<a href="https://www.researchsquare.com/article/rs-95721/v1" class="uri">https://www.researchsquare.com/article/rs-95721/v1</a>
+<https://www.researchsquare.com/article/rs-95721/v1>
 
 Data Organization
 -----------------
@@ -144,8 +144,8 @@ Number of times the tweet was retweeted
 Country
 </td>
 <td style="text-align:left;">
-When present, indicates a list of uppercaseÂ two-letter country
-codesÂ from which the tweet comes
+When present, indicates a list of uppercase two-letter country
+codes from which the tweet comes
 </td>
 </tr>
 <tr>
@@ -281,8 +281,8 @@ Most probable tweet sentiment (neutral, positive, negative)
 Probability\_pos
 </td>
 <td style="text-align:left;">
-Probability of the tweets sentiment being positive (\<=0.33 is negative,
-\>0.33 OR \<0.66 is neutral, else positve)
+Probability of the tweets sentiment being positive (&lt;=0.33 is
+negative, &gt;0.33 OR &lt;0.66 is neutral, else positve)
 </td>
 </tr>
 <tr>
@@ -329,7 +329,6 @@ algorithm
 </tr>
 </tbody>
 </table>
-
 For more information visit: [Twitter
 API](https://developer.twitter.com/en/docs) and the [Documentation for
 API
@@ -1056,7 +1055,6 @@ Max No. Likes
 </tr>
 </tbody>
 </table>
-
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
 There is a total of 4,091,097 tweets with geolocation information, which
@@ -1153,7 +1151,6 @@ Others
 </tr>
 </tbody>
 </table>
-
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20by%20Language%20Line%20plot.png)
 
 English Sentiment Analaysis
@@ -1328,7 +1325,7 @@ covid
 @joebiden
 </td>
 <td style="text-align:left;">
-\#covid\<u+30fc\>19
+\#covid&lt;u+30fc&gt;19
 </td>
 <td style="text-align:left;">
 donald trump
@@ -1405,7 +1402,6 @@ american
 </tr>
 </tbody>
 </table>
-
 Spanish Sentiment Analaysis
 ---------------------------
 
@@ -1482,7 +1478,7 @@ covid-19
 nicolasmaduro
 </td>
 <td style="text-align:left;">
-mÃ©xico
+méxico
 </td>
 <td style="text-align:left;">
 gobierno
@@ -1510,7 +1506,7 @@ covid19
 mippcivzla
 </td>
 <td style="text-align:left;">
-espaÃ±a
+españa
 </td>
 <td style="text-align:left;">
 vtvcanal8
@@ -1572,7 +1568,7 @@ colombia
 oms
 </td>
 <td style="text-align:left;">
-covidãƒ¼19
+covidー19
 </td>
 </tr>
 <tr>
@@ -1591,7 +1587,6 @@ covidãƒ¼19
 </tr>
 </tbody>
 </table>
-
 Data Collection Process Inconsistencies
 ---------------------------------------
 
@@ -1656,7 +1651,6 @@ Time
 </tr>
 </tbody>
 </table>
-
 Hydrating Tweets
 ================
 
@@ -1700,7 +1694,7 @@ Inquiries
 =========
 
 For questions about the dataset, please contact Dr. Christian Lopez at
-**<a href="mailto:lopezbec@lafayette.edu" class="email">lopezbec@lafayette.edu</a>**
+**<lopezbec@lafayette.edu>**
 
 Licensing
 =========
@@ -1720,4 +1714,4 @@ References
 2020. \#COVID-19: The First Public Coronavirus Twitter Dataset.
 arXiv:cs.SI/2003.07372, 2020
 
-<a href="https://github.com/echen102/COVID-19-TweetIDs" class="uri">https://github.com/echen102/COVID-19-TweetIDs</a>
+<https://github.com/echen102/COVID-19-TweetIDs>
