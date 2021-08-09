@@ -29,7 +29,7 @@ This repo only contatins the data and statistics for 2021. For the data of 2020 
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 07/20/2021 there were a total of **1,988,531,090** tweets
+As of 07/26/2021 there were a total of **2,016,198,134** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -341,11 +341,11 @@ Data Statistics
 General Statistics
 ------------------
 
-As of 07/20/2021:
+As of 07/26/2021:
 
-Total Number of tweets: **1,988,531,090**
+Total Number of tweets: **2,016,198,134**
 
-Average daily number of tweets: **150,227**
+Average daily number of tweets: **150,587**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1027,31 +1027,31 @@ Max No. Likes
 7
 </td>
 <td style="text-align:left;">
-44,007
+46,463
 </td>
 <td style="text-align:left;">
-100,471
+104,619
 </td>
 <td style="text-align:left;">
-144,129
+150,963
 </td>
 <td style="text-align:left;">
-20,595,028
+29,413,660
 </td>
 <td style="text-align:left;">
-46,117,041
+64,965,996
 </td>
 <td style="text-align:left;">
-66,711,408
+94,378,452
 </td>
 <td style="text-align:left;">
-10,269
+14,327
 </td>
 <td style="text-align:left;">
 1,108,703
 </td>
 <td style="text-align:left;">
-333,351
+633,347
 </td>
 </tr>
 </tbody>
@@ -1059,7 +1059,7 @@ Max No. Likes
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 4,093,603 tweets with geolocation information, which
+There is a total of 4,097,661 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1090,10 +1090,10 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-1,280,077,637
+1,297,484,613
 </td>
 <td style="text-align:right;">
-64.49
+64.47
 </td>
 </tr>
 <tr>
@@ -1101,10 +1101,10 @@ English
 Spanish; Castilian
 </td>
 <td style="text-align:left;">
-254,429,109
+256,898,096
 </td>
 <td style="text-align:right;">
-12.82
+12.76
 </td>
 </tr>
 <tr>
@@ -1112,10 +1112,10 @@ Spanish; Castilian
 Portuguese
 </td>
 <td style="text-align:left;">
-90,784,205
+91,376,910
 </td>
 <td style="text-align:right;">
-4.57
+4.54
 </td>
 </tr>
 <tr>
@@ -1123,10 +1123,10 @@ Portuguese
 Bahasa
 </td>
 <td style="text-align:left;">
-61,413,182
+63,132,488
 </td>
 <td style="text-align:right;">
-3.09
+3.14
 </td>
 </tr>
 <tr>
@@ -1134,10 +1134,10 @@ Bahasa
 French
 </td>
 <td style="text-align:left;">
-58,373,268
+59,744,847
 </td>
 <td style="text-align:right;">
-2.94
+2.97
 </td>
 </tr>
 <tr>
@@ -1145,10 +1145,10 @@ French
 Others
 </td>
 <td style="text-align:left;">
-239,904,964
+244,011,912
 </td>
 <td style="text-align:right;">
-12.09
+12.12
 </td>
 </tr>
 </tbody>
@@ -1228,7 +1228,7 @@ covid-19
 14,106,218
 </td>
 <td style="text-align:left;">
-110,018,604
+111,214,520
 </td>
 <td style="text-align:left;">
 30,158,874
@@ -1268,7 +1268,7 @@ covid
 7,159,966
 </td>
 <td style="text-align:left;">
-42,238,603
+42,258,489
 </td>
 <td style="text-align:left;">
 11,602,062
@@ -1308,7 +1308,7 @@ americans
 4,217,090
 </td>
 <td style="text-align:left;">
-13,001,404
+13,144,696
 </td>
 <td style="text-align:left;">
 10,045,517
@@ -1328,7 +1328,7 @@ americans
 @joebiden
 </td>
 <td style="text-align:left;">
-\#covid\<u+30fc\>19
+\#whatshappeninginmyanmar
 </td>
 <td style="text-align:left;">
 fauci
@@ -1348,7 +1348,7 @@ covid19
 3,449,360
 </td>
 <td style="text-align:left;">
-2,252,353
+2,720,312
 </td>
 <td style="text-align:left;">
 3,989,992
@@ -1368,7 +1368,7 @@ covid19
 @narendramodi
 </td>
 <td style="text-align:left;">
-\#whatshappeninginmyanmar
+\#covid\<u+30fc\>19
 </td>
 <td style="text-align:left;">
 donald trump
@@ -1388,7 +1388,7 @@ coronavirus
 3,085,638
 </td>
 <td style="text-align:left;">
-2,005,909
+2,252,353
 </td>
 <td style="text-align:left;">
 2,915,315
