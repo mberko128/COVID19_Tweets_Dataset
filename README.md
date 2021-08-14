@@ -1231,16 +1231,16 @@ covid-19
 111,867,899
 </td>
 <td style="text-align:left;">
-28,071,362
+26,828,820
 </td>
 <td style="text-align:left;">
-19,003,544
+18,521,287
 </td>
 <td style="text-align:left;">
-11,547,929
+12,328,477
 </td>
 <td style="text-align:left;">
-26,182,059
+25,972,325
 </td>
 </tr>
 <tr>
@@ -1271,16 +1271,16 @@ covid
 42,302,287
 </td>
 <td style="text-align:left;">
-11,812,513
+12,185,681
 </td>
 <td style="text-align:left;">
-12,781,302
+12,776,493
 </td>
 <td style="text-align:left;">
-5,559,194
+6,028,659
 </td>
 <td style="text-align:left;">
-16,700,836
+17,389,204
 </td>
 </tr>
 <tr>
@@ -1297,7 +1297,7 @@ covid
 uk
 </td>
 <td style="text-align:left;">
-senate
+pfizer
 </td>
 <td style="text-align:left;">
 americans
@@ -1311,16 +1311,16 @@ americans
 13,253,371
 </td>
 <td style="text-align:left;">
-10,477,558
+11,022,152
 </td>
 <td style="text-align:left;">
-11,156,569
+11,409,657
 </td>
 <td style="text-align:left;">
-2,926,729
+2,977,479
 </td>
 <td style="text-align:left;">
-12,580,083
+12,359,771
 </td>
 </tr>
 <tr>
@@ -1337,7 +1337,7 @@ fauci
 china
 </td>
 <td style="text-align:left;">
-pfizer
+senate
 </td>
 <td style="text-align:left;">
 covid19
@@ -1351,16 +1351,16 @@ covid19
 2,899,919
 </td>
 <td style="text-align:left;">
-3,402,367
+3,394,606
 </td>
 <td style="text-align:left;">
-10,819,820
+10,206,959
 </td>
 <td style="text-align:left;">
-2,878,870
+2,901,152
 </td>
 <td style="text-align:left;">
-4,997,890
+5,232,615
 </td>
 </tr>
 <tr>
@@ -1380,7 +1380,7 @@ america
 trump
 </td>
 <td style="text-align:left;">
-coronavirus
+american
 </td>
 </tr>
 <tr>
@@ -1391,16 +1391,16 @@ coronavirus
 2,252,353
 </td>
 <td style="text-align:left;">
-2,713,362
+2,656,744
 </td>
 <td style="text-align:left;">
-5,572,974
+5,271,754
 </td>
 <td style="text-align:left;">
-2,031,210
+1,985,568
 </td>
 <td style="text-align:left;">
-3,137,708
+2,732,474
 </td>
 </tr>
 </tbody>
@@ -1465,16 +1465,16 @@ covid-19
 </tr>
 <tr>
 <td style="text-align:left;">
-3,581,514
+3,679,895
 </td>
 <td style="text-align:left;">
-3,966,432
+4,008,958
 </td>
 <td style="text-align:left;">
 3,924,925
 </td>
 <td style="text-align:left;">
-23,402,619
+23,790,142
 </td>
 </tr>
 <tr>
@@ -1493,16 +1493,16 @@ covid
 </tr>
 <tr>
 <td style="text-align:left;">
-2,323,727
+2,328,008
 </td>
 <td style="text-align:left;">
-2,918,228
+3,016,210
 </td>
 <td style="text-align:left;">
-1,939,192
+1,941,305
 </td>
 <td style="text-align:left;">
-13,445,951
+13,893,702
 </td>
 </tr>
 <tr>
@@ -1524,13 +1524,13 @@ covid19
 1,196,743
 </td>
 <td style="text-align:left;">
-1,669,314
+1,729,654
 </td>
 <td style="text-align:left;">
-1,593,930
+1,634,893
 </td>
 <td style="text-align:left;">
-12,865,740
+13,218,511
 </td>
 </tr>
 <tr>
@@ -1549,16 +1549,16 @@ coronavirus
 </tr>
 <tr>
 <td style="text-align:left;">
-289,969
+298,815
 </td>
 <td style="text-align:left;">
-799,938
+805,368
 </td>
 <td style="text-align:left;">
-1,060,455
+1,066,138
 </td>
 <td style="text-align:left;">
-4,482,305
+4,513,360
 </td>
 </tr>
 <tr>
@@ -1580,13 +1580,13 @@ delta
 256,195
 </td>
 <td style="text-align:left;">
-766,708
+779,486
 </td>
 <td style="text-align:left;">
-716,986
+723,770
 </td>
 <td style="text-align:left;">
-142,150
+185,369
 </td>
 </tr>
 </tbody>
